@@ -3,6 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Solution Documentation", "DM Solution Documentation", "{71985F17-0FC3-4F8D-A18E-E834DEB4701A}"
+	ProjectSection(SolutionItems) = preProject
+		DM Solution Documentation\Redwood Solution Dimensional Diagram.vsdx = DM Solution Documentation\Redwood Solution Dimensional Diagram.vsdx
+		DM Solution Documentation\Redwood Solution Documentation.docx = DM Solution Documentation\Redwood Solution Documentation.docx
+		DM Solution Documentation\Redwood Solution Workbook.xlsx = DM Solution Documentation\Redwood Solution Workbook.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
